@@ -36,7 +36,7 @@
     <repository>
       <id>github</id>
       <name>GitHub OWNER Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/srivatsamarichi/spring-petclinic</url>
+      <url>https://maven.pkg.github.com/Grenston/petclinic</url>
     </repository>
   </distributionManagement>
 
