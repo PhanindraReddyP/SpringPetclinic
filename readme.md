@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=srivatsamarichi_spring-petclinic&metric=alert_status)](https://sonarcloud.io/dashboard?id=srivatsamarichi_spring-petclinic)
 
-# Spring PetClinic Sample Application 
+# Spring PetClinic Sample Application with Maven build
 
 Deploy this sample application to Pivotal Web Services:
 
