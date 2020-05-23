@@ -35,8 +35,8 @@
   <distributionManagement>
     <repository>
       <id>github</id>
-      <name>GitHub OWNER Apache Maven Packages</name>
-      <url>https://maven.pkg.github.com/Grenston/petclinic</url>
+      <name>PhanindraReddyP</name>
+      <url>https://maven.pkg.github.com/PhanindraReddyP/SpringPetclinic</url>
     </repository>
   </distributionManagement>
 
