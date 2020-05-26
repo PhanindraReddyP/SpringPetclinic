@@ -9,7 +9,7 @@ on:
     branches: [ master ]
 
 env:
-  AZURE_WEBAPP_NAME: ghpetclinic
+  AZURE_WEBAPP_NAME: petclinicgh
   AZURE_WEBAPP_PACKAGE_PATH: ${{ github.workspace }}
   AZURE_WEBAPP_PUBLISH_PROFILE: ${{ secrets.perclinicghpublishprofile }}
 
