@@ -33,7 +33,7 @@ jobs:
     - name: Maven Build with env variable  
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
-      run: |
+      run: | 
         echo "<settings><servers><server><id>github</id><username>OWNER</username><password>${GITHUB_TOKEN}</password></server></servers></settings>" > ~/.m2/settings.xml
         mvn clean deploy -f pom.xml
         
