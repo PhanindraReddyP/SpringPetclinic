@@ -42,7 +42,7 @@ jobs:
        echo "**********************"
         echo ${{ github.workspace }}
         echo "************************"
-        ls -lart /home/runner/work/SpringPetclinic/SpringPetclinic/src
+        ls -lart /home/runner/work/SpringPetclinic/SpringPetclinic/
   
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v2
