@@ -2,7 +2,7 @@
 
 <html xmlns:th="https://www.thymeleaf.org" th:replace="~{fragments/layout :: layout (~{::body},'error')}">
 
-  <body>
+  <body style="background-color:tomato;">
     <img src="../static/resources/images/pets.png" th:src="@{/resources/images/pets.png}"/>
     <marquee><h2>Something happened...</h2></marquee>
     <p th:text="${message}">Exception message</p>
