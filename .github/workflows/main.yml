@@ -4,7 +4,7 @@
 name: Spring-Petclinic
 on:
   push:
-    branches: [ master, playground ]
+    branches: [ master ]
   pull_request:
     branches: [ master ]
 
